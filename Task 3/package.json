@@ -1,0 +1,12 @@
+{
+  "name": "test-jest-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task3.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
